@@ -1,0 +1,260 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css"></style>
+<link href="css/zhuyaode.css" rel="stylesheet" type="text/css" />
+<link href="css/dierge.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="header">
+  <div class="header-inner">
+    <div class="logo"><img src="studeon/images/logo.png"/></div>
+    <div class="nav">
+      <ul class="text">
+        <li><a href="#" class="active">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Features</a></li>
+        <li><a href="#">Blog</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </div>
+    <div class="pic">
+      <ul>
+        <li><a href="#" class="f"></a></li>
+        <li><a href="#" class="n"></a></li>
+        <li><a href="#" class="wifi"></a></li>
+        <li><a href="#" class="v"></a></li>
+        <li><a href="#" class="y"></a></li>
+        <li><a href="#" class="in"></a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="banner">
+  <div class="banner-inner">
+  <a href name="fanhui">
+    <div class="banner-inner-wec">
+      <div class="banner-inner-o">
+        <P>WELCOME</P>
+      </div>
+      <div class="banner-inner-t">
+        <P>TO THE</P>
+      </div>
+      <div class="banner-inner-s">
+        <P>STUDEON</P>
+      </div>
+      <div class="banner-inner-f"></div>
+    </div>
+    <div class="banner-inner-tu"><img src="studeon/images/slide1.png"/></div>
+  </div>
+</div>
+<div class="main">
+  <div class="main-inner">
+    <div class="main-inner-one">
+      <div class="main-inner-top">
+        <div class="mian-inner-top-c">
+          <ul>
+            <li>
+              <div class="huojian q"></div>
+              <div class="ev">
+                <h3>EVENTS PLANNING</h3>
+                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</P>
+              </div>
+            </li>
+            <li class="congxin">
+              <div class="huojian w"></div>
+              <div class="ev">
+                <h3>MASTERING DESIGN</h3>
+                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</P>
+              </div>
+            </li>
+            <li>
+              <div class="huojian e"></div>
+              <div class="ev">
+                <h3>EXPERT DEVELOPERS</h3>
+                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</P>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div class="mian-inner-top-c">
+          <ul>
+            <li>
+              <div class="huojian r"></div>
+              <div class="ev">
+                <h3>ATTENSION TO DETAILS</h3>
+                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</P>
+              </div>
+            </li>
+            <li class="congxin">
+              <div class="huojian t"></div>
+              <div class="ev">
+                <h3>ANOTHER COOL SERVICE</h3>
+                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</P>
+              </div>
+            </li>
+            <li>
+              <div class="huojian p"></div>
+              <div class="ev">
+                <h3>EVENTS PLANNING</h3>
+                <P>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</P>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="main-inner-bot">
+        <div class="main-bot-inner">
+          <div class="main-bot-zuo">
+            <h3>HI THERE. I AM A THEME, WITH ATTITUDE. I AM ALSO RESPONSIVE, EASY DO EDIT. WHY DON'T YOU TRY ME ?</h3>
+            <P>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla vel dolor blandit nec Quisque quis nulla vel dolor ultrices sit amet.</P>
+          </div>
+          <div class="main-bot-you">
+            <form>
+              <input type="button" value="BUY NOW !"/>
+            </form>
+          </div>
+        </div>
+        <div class="the">THE PORTFOLIO</div>
+      </div>
+    </div>
+    <div class="main-inner-two">
+      <div class="main-inner-iam">
+        <ul>
+          <li class="zic"><div class="web">WEB DESIGN</div><img src="studeon/images/p1.jpg"/>
+            <div class="hezi">
+              <ul>
+                <li class="ac"></li>
+                <li class="dc"></li>
+              </ul>
+            </div>
+            <h3>I AM AN AMAZING PROJECT</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla amet. turpis. </p>
+          </li>
+          <li><img src="studeon/images/p2.jpg"/>
+            <h3>I AM AN AMAZING PROJECT</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla amet. turpis. </p>
+          </li>
+          <li><img src="studeon/images/p3.jpg"/>
+            <h3>I AM AN AMAZING PROJECT</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla amet. turpis. </p>
+          </li>
+          <li><img src="studeon/images/p4.jpg"/>
+            <h3>I AM AN AMAZING PROJECT</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla amet. turpis. </p>
+          </li>
+        </ul>
+      </div>
+      <div class="main-inner-sub">
+        <div class="main-sub-inner">
+          <h3>SUBSCRIBE TO OUR NEWSLETTER. WE HATE SPAM AS MUCH AS YOU DO, SO NO WORRIES</h3>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla vel dolor blandit nec Quisque quis nulla vel dolor ultrices sit amet</p>
+          <a href="#"><img src="images/sanjiao_15.jpg"/></a> </div>
+        <h4>OUR BLOGGY</h4>
+        <span>TESTIMONIALS</span> </div>
+    </div>
+    <div class="main-inner-there">
+      <div class="main-xiangji">
+      		<img src="studeon/images/b1.jpg"/>
+        <h3>JUST A COOL BLOG POST TITLE HERE</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla vel dolor ultrices blandit nec sit amet. turpis, ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <h5>Read more</h5>
+      
+      </div>
+      <div class="main-dengzi">
+      	<img src="studeon/images/b2.jpg"/>
+            <h3>JUST A COOL BLOG POST TITLE HERE</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla vel dolor ultrices blandit nec sit amet. turpis, ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <h5>Read more</h5>
+      </div>
+      <div class="main-ver">
+   		<div class="main-linda">
+            	<div class="main-linda-z"><img src="images/nanhai_03.jpg"/></div>
+                <div class="main-linda-y">
+               	  <h4>VERY PLEASED WITH THE</h4>
+                  <h4>COOL SERVICES PROVIDED.</h4>
+                  <p>Linda Scott / Webdesigner</p>
+                  <span> http://www.mywebsite.com</span>
+                
+          </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla vel dolor ultrices blandit nec sit amet. turpis</p>
+            </div> 
+      <div class="main-linda">
+            	<div class="main-linda-z"><img src="studeon/images/f4.png"/></div>
+                <div class="main-linda-y">
+               	  <h4>VERY PLEASED WITH THE</h4>
+                  <h4>COOL SERVICES PROVIDED.</h4>
+                  <p>Linda Scott / Webdesigner</p>
+                  <span> http://www.mywebsite.com</span>
+                
+          </div>
+                <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque quis nulla vel dolor ultrices blandit nec sit amet. turpis</p>
+        </div> 
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+	<div class="footer-inner">
+    	
+    	<div class="footer-inner-ab">
+        	<h3>ABOUT STUDEON</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id arcu neque, at convallis est felis</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque id arcu neque, at convallis est felis</p>
+        	
+        </div>
+        <div class="footer-inner-ab">
+        	<h3>THE TAGS</h3>
+            <ul>
+            	<li><a href="#">Awesome</a></li>
+                <li><a href="#">Strategy</a></li>
+                <li><a href="#">Photography</a></li>
+                <li><a href="#">Development</a></li>
+                <li><a href="#"> photoshop</a></li>
+                <li><a href="#">Html </a></li>
+                <li><a href="#">Strategy</a></li>
+                <li><a href="#">Photoshop</a></li>
+                <li><a href="#">Html</a></li>
+                <li><a href="#">Css</a></li>
+                <li><a href="#">Awesome</a></li>
+            </ul>
+            
+        	
+        </div>
+        <div class="footer-inner-ab">
+        	<h3>LATEST TWEETS</h3>
+            <p>I like this awesome freebie. Check it out @http://t.co/9vslJFpW</p><span>ABOUT 15 MINS</span>
+            <p>I like this awesome freebie. Check it out @http://t.co/9vslJFpW</p><span>ABOUT 15 MINS</span>
+        	
+        </div>
+        <div class="footer-inner-ab tt">
+        	<h3>FLICKR FEED</h3>
+            	<ul>
+                	<li><img src="studeon/images/f1.png"/></li>
+                    <li><img src="studeon/images/f2.png"/></li>
+                    <li><img src="studeon/images/f3.png"/></li>
+                    <li><img src="studeon/images/f4.png"/></li>
+                    <li><img src="studeon/images/f3.png"/></li>
+                    <li><img src="studeon/images/f2.png"/></li>
+                
+                </ul>
+        	
+        </div>
+        
+      
+    </div>
+</div>
+<div class="bottom"><a href="#fanhui"></a>
+   <div class="bottom-inner">
+	<div class="bottom-logo"><img src="studeon/images/logo2.png"/></div>
+    <div class="bottom-text"><p>Copyright ? 2015 All rights Reserved | Template by  <span>W3layouts</span></p></div>
+   </div>
+</div>
+
+
+</body>
+</html>
